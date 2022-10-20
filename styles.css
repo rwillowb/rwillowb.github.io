@@ -1,49 +1,39 @@
 body {
-  background-color: floralwhite;
-  text-align: left;
+	background-color: floralwhite;
+	text-align: left;
   
 }
 
 h1 {
-  color: slategray;
-  text-align: center;
-  font-size: 50px;
-  font-family: courier new;
+	color: coral;
+	text-align: center;
+	font-size: 50px;
+	font-family: Garamond;
 }
 
 p {
-  font-family: Courier New;
-  font-size: 20px;
-  text-align: center;
-  color: slategray;
+	font-family: Courier New;
+	font-size: 20px;
+	text-align: center;
+	color: slategray;
 }
 
 p1 {
-  font-family: Courier New;
-  font-size: 20px;
-  text-align: center;
-  color: slategray;
-}
-
-pre {
-  font-family: Courier New;
-  font-size: 20px;
-  text-align: center;
-  color: slategray;
+	font-family: Courier New;
+	font-size: 20px;
+	color: slategray;
 }
 
 a {
-	text-align: center-left;
 	font-family: Courier New;
 	font-size: 20px;
-	color: violet
+	color: coral
 }
 
 h2 {
 	font-family: Courier New;
 	font-size: 20px;
-	text-align: center-left;
-	color: slategray;
+	color: coral;
 }
 
 ul {
@@ -51,5 +41,36 @@ ul {
 	font-size: 20px;
 	font-style: Bold;
 	color: slategray;
-	text-align: center-left;
-]
+}
+
+hr {
+	color: coral;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 100%;
+	height: auto;
+}
+
+/* unvisited link */
+a:link {
+	color: coral;
+}
+
+/* visited link */
+a:visited {
+	color: coral;
+}
+
+/* mouse over link */
+a:hover {
+	color: hotpink;
+}
+
+/* selected link */
+a:active {
+	color: gray;
+}
