@@ -1,0 +1,76 @@
+body {
+	background-color: floralwhite;
+	text-align: center;
+  
+}
+
+h1 {
+	color: coral;
+	text-align: center;
+	font-size: 50px;
+	font-family: Garamond;
+}
+
+p {
+	font-family: Courier New;
+	font-size: 20px;
+	text-align: center;
+	color: slategray;
+}
+
+p1 {
+	font-family: Courier New;
+	font-size: 20px;
+	color: slategray;
+}
+
+a {
+	font-family: Courier New;
+	font-size: 20px;
+	color: coral
+}
+
+h2 {
+	font-family: Courier New;
+	font-size: 20px;
+	color: coral;
+}
+
+ul {
+	font-family: Courier New;
+	font-size: 20px;
+	font-style: Bold;
+	color: slategray;
+}
+
+hr {
+	color: coral;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 100%;
+	height: auto;
+}
+
+/* unvisited link */
+a:link {
+	color: coral;
+}
+
+/* visited link */
+a:visited {
+	color: coral;
+}
+
+/* mouse over link */
+a:hover {
+	color: hotpink;
+}
+
+/* selected link */
+a:active {
+	color: gray;
+}
