@@ -1,11 +1,11 @@
-<style>body {
-  background-color: aliceblue;
+body {
+  background-color: floralwhite;
   text-align: left;
   
 }
 
 h1 {
-  color: black;
+  color: slategray;
   text-align: center;
   font-size: 50px;
   font-family: courier new;
@@ -14,5 +14,42 @@ h1 {
 p {
   font-family: Courier New;
   font-size: 20px;
+  text-align: center;
+  color: slategray;
 }
-</style>
+
+p1 {
+  font-family: Courier New;
+  font-size: 20px;
+  text-align: center;
+  color: slategray;
+}
+
+pre {
+  font-family: Courier New;
+  font-size: 20px;
+  text-align: center;
+  color: slategray;
+}
+
+a {
+	text-align: center-left;
+	font-family: Courier New;
+	font-size: 20px;
+	color: violet
+}
+
+h2 {
+	font-family: Courier New;
+	font-size: 20px;
+	text-align: center-left;
+	color: slategray;
+}
+
+ul {
+	font-family: Courier New;
+	font-size: 20px;
+	font-style: Bold;
+	color: slategray;
+	text-align: center-left;
+]
