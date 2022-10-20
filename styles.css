@@ -1,5 +1,19 @@
 body {
-    margin:0;
-    background: lavenderblush; 
-    text-align: center;
+  margin: 1;
+  background-color: aliceblue;
+  text-align: left;
+  
 }
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: Courier New;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
