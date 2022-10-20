@@ -1,5 +1,6 @@
+<head>
+<style>
 body {
-  margin: 1;
   background-color: aliceblue;
   text-align: left;
   
@@ -8,6 +9,8 @@ body {
 h1 {
   color: black;
   text-align: center;
+  font-size: 50px;
+  font-family: courier new;
 }
 
 p {
@@ -17,3 +20,8 @@ p {
 </style>
 </head>
 <body>
+
+<h1>Queen Willow</h1>
+<p>Sometimes you just need to take a catnap.</p>
+
+</body>
